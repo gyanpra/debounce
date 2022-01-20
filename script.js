@@ -14,6 +14,6 @@ const debounce = function (fn, delay) {
   }
 }
 
-const outputFunc = debounce(getData, 5000);
+const outputFunc = debounce(getData, 3000);
 
 
